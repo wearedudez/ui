@@ -156,7 +156,7 @@ function library:Window(options)
 	BloxburgHubTitle.Position = UDim2.new(0.075, 0, 0.1, 0)
 	BloxburgHubTitle.Size = UDim2.new(0, 372, 0, 35)
 	BloxburgHubTitle.Font = Enum.Font.GothamBold
-	BloxburgHubTitle.Text = "Katze.tk"
+	BloxburgHubTitle.Text = "Katze"
 	BloxburgHubTitle.TextColor3 = Color3.fromRGB(84, 116, 224)
 	BloxburgHubTitle.TextSize = 15.000
 	BloxburgHubTitle.TextXAlignment = Enum.TextXAlignment.Left
