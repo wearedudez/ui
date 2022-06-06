@@ -144,7 +144,7 @@ function library:Window(options)
 	BloxburgTitle2.Position = UDim2.new(0.08, 0, 0.135, 0)
 	BloxburgTitle2.Size = UDim2.new(0, 372, 0, 35)
 	BloxburgTitle2.Font = Enum.Font.GothamBold
-	BloxburgTitle2.Text = "dsc.gg/katze"
+	BloxburgTitle2.Text = ""
 	BloxburgTitle2.TextColor3 = Color3.fromRGB(233, 233, 233)
 	BloxburgTitle2.TextSize = 15.000
 	BloxburgTitle2.TextXAlignment = Enum.TextXAlignment.Left
